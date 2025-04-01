@@ -17,7 +17,7 @@ body {
   letter-spacing: 2px;
 }
 .white-btn {
-  background: #fff;
+  background: #f5f5;
   color: #111;
 }
 .purple-btn {
@@ -474,7 +474,7 @@ nav .navLinks .links a:hover {
 }
 nav .btn {
   padding: 8px 20px;
-  color: #e5e5e5;
+  color: #ffe5ec;
   background: transparent;
   border: none;
   border-radius: 20px;
