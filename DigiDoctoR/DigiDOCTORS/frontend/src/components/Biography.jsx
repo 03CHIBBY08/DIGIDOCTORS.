@@ -8,29 +8,33 @@ const Biography = ({imageUrl}) => {
           <img src={imageUrl} alt="whoweare" />
         </div>
         <div className="banner">
-          <p>Biography</p>
+         <p>Our Story</p>
           <h3>Who We Are</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+            Founded in 2025, DigiDoctor Medical Institute represents the future 
+            of healthcare delivery. We combine advanced digital technology with 
+            compassionate medical care to provide an unparalleled healthcare 
+            experience.
           </p>
-          <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
+            At DigiDoctor, we leverage cutting-edge technology to enhance 
+            patient care. Our digital platforms ensure seamless communication, 
+            efficient appointment management, and comprehensive health tracking.
           </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          <p>
+            Our services include:
+          </p>
+          <ul>
+            <li>Telemedicine Consultations</li>
+            <li>Digital Health Records Management</li>
+            <li>Online Appointment Booking</li>
+            <li>24/7 Digital Health Support</li>
+            <li>Integrated Patient Care Platform</li>
+          </ul>
+          <p>
+            We're committed to revolutionizing healthcare through innovation 
+            while maintaining the human touch that makes medicine meaningful.
+          </p>
         </div>
       </div>
     </>
