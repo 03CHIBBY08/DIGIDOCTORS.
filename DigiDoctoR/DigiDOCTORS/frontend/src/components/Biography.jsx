@@ -11,7 +11,7 @@ const Biography = ({imageUrl}) => {
          <p>Our Story</p>
           <h3>Who We Are</h3>
           <p>
-            Founded in 2025, DigiDoctor Medical Institute represents the future 
+            Founded in 2025, DigiDoctor  represents the future 
             of healthcare delivery. We combine advanced digital technology with 
             compassionate medical care to provide an unparalleled healthcare 
             experience.
